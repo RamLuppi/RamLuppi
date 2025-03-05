@@ -6,7 +6,7 @@
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
+<div align="center" class="row">
 
 ### RamLuppi's GitHub Stats
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RamLuppi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
