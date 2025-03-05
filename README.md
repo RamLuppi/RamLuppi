@@ -6,8 +6,15 @@
 
 ## 📊 Estadísticas de GitHub
 
+<div align="center">
+
+### RamLuppi's GitHub Stats
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RamLuppi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+### Lenguajes más usados
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=RamLuppi&layout=compact&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
