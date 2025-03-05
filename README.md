@@ -17,5 +17,5 @@
 
 ---
 
-## ¡Siempre estoy listo para un desafío! 🚀
+## ¡Siempre estoy listo para un desafío! 🚚
 ![GIF divertido](https://media.tenor.com/9AhA9h8JP6oAAAAM/cat-chess.gif)
