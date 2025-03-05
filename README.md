@@ -3,7 +3,7 @@
 👋 Soy una persona apasionada por aprender, el ajedrez ♟️, y el deporte en general ⚽🏀.
 
 ## 📊 Estadísticas de GitHub
-<div align="center" style="display: flex; justify-content: space-between;">
+<div align="center" style="display: flex;">
   ![Estadísticas de GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamLuppi&theme=github)
   ![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RamLuppi&theme=github)
 </div>
