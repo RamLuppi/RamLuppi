@@ -4,7 +4,7 @@
 
 ## 📊 Estadísticas de GitHub
 
-| ![Estadísticas de GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamLuppi&theme=nightowl) | ![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RamLuppi&theme=nightowl) |
+| ![Estadísticas de GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamLuppi&theme=tokyonight) | ![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RamLuppi&theme=dracula) |
 |-------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
 
 
