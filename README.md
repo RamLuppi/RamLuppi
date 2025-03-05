@@ -8,10 +8,10 @@
 
 <div align="center" style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 10px;">
-    ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RamLuppi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+    ![Estadísticas de GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamLuppi&theme=github)
   </div>
   <div style="flex: 1; margin-left: 10px;">
-    ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=RamLuppi&layout=compact&theme=radical&hide_border=true)
+    ![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RamLuppi&theme=github)
   </div>
 </div>
 
