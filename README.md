@@ -4,8 +4,8 @@
 
 ## 📊 Estadísticas de GitHub
 
-  ![Estadísticas de GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamLuppi&theme=github)
-  ![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RamLuppi&theme=github)
+| ![Estadísticas de GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamLuppi&theme=github) | ![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RamLuppi&theme=github) |
+|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 
 ## ¡Siempre estoy listo para un desafío! 🚚
