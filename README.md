@@ -1,12 +1,7 @@
 # ¡Hola! Soy Ramiro
-
 👋 Soy una persona apasionada por aprender, el ajedrez ♟️, y el deporte en general ⚽🏀.
-
 ## 📊 Estadísticas de GitHub
-
-| ![Estadísticas de GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamLuppi&theme=tokyonight) | ![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RamLuppi&theme=dracula) |
+| ![Estadísticas de GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamLuppi&theme=tokyonight) | ![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RamLuppi&theme=tokyonight) |
 |-------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-
-
 ## ¡Siempre estoy listo para un desafío! 🚚
 ![GIF divertido](https://media.tenor.com/9AhA9h8JP6oAAAAM/cat-chess.gif)
